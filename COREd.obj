@@ -1,7 +1,7 @@
 # Blender 4.5.11 LTS
 # www.blender.org
 mtllib COREb.mtl
-o Core
+o model
 v 0.000000 0.296278 -1.302946
 v 0.000000 -0.145085 -1.388138
 v 0.744752 -0.744752 0.744752
