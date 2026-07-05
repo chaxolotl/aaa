@@ -1,7 +1,7 @@
 # Blender 4.5.11 LTS
 # www.blender.org
 mtllib CORECOVERc.mtl
-o Cover
+o model
 v 0.000000 1.008072 0.923526
 v 0.503461 0.957152 0.870709
 v 0.928648 0.537890 0.870709
